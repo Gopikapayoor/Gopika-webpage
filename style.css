@@ -13,14 +13,7 @@ body{
 
 
 }
-@viewport{
-    zoom: 1.0;
-    width: extend-to-zoom;
-}
-@-ms-viewport{
-    width: extend-to-zoom;
-    zoom: 1.0;
-}
+
 header{
     background: #000 url(./images/cover.png) center;
     background-size: cover;
